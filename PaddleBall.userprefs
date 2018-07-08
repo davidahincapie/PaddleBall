@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Platforms/Assets/Scripts/PlatformFall.cs">
+    <Files>
+      <File FileName="../Platforms/Assets/Scripts/SimplePlatformController.cs" Line="70" Column="2" />
+      <File FileName="../Platforms/Assets/Scripts/SpawnPlatforms.cs" Line="34" Column="2" />
+      <File FileName="../Platforms/Assets/Scripts/PlatformFall.cs" Line="31" Column="2" />
+      <File FileName="../Platforms/Assets/Scripts/SpawnCoins.cs" Line="12" Column="11" />
+      <File FileName="../Platforms/Assets/Scripts/PickupCoin.cs" Line="21" Column="2" />
+      <File FileName="../Platforms/Assets/Scripts/Reset.cs" Line="21" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
